@@ -1,0 +1,57 @@
+ 2. My resume in JSON format:-
+
+    let myResume={
+    "basics": {
+      "name": "PRAVEEN RAJ.N",
+      "email": "nprs14161819@gamil.com",
+      "phone": 8667786360,
+      "degree": "B.E",
+      "location": {
+        "address": "147 Madhavan Salai K.K.Nagar",
+        "postalCode": 620021,
+        "city": "Trichy",
+        "state": "Tamilnadu",
+        "country": "India"
+      },
+      "profiles": [
+        {
+          "github":"https://github.com/PRAVEEN RAJ-RT"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "Modern General Industry",
+        "position": "NPD Engineer",
+        "startDate": "2022-05-09",
+        "endDate": "2023-05-31",
+        "summary": "i am the NPD Engineer and I will design the new parts received by the company and work on the documents about the new parts",
+      },
+    ],
+    "education": [
+      {
+        "institution": "Mookambigai College Of Engineering",
+        "department": "Mechanical",
+        "studyType": "fulltime",
+        "batch start year": 2015,
+        "batch end year": 2019,
+        "gpa": 6.2,
+      }
+    ],
+    "skills": [
+      {
+        "name": "javascript",
+        "level": "beginner",
+       }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,English",
+      }
+    ],
+    "interests": [
+      {
+        "name": "Music",
+      }
+    ]
+  }

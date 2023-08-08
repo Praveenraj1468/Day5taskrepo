@@ -1,0 +1,13 @@
+
+ 1. JSON iterate over all for loops (for,for in,for of,forEach):-
+
+    The for loop iterate over through a block of code a number of times.
+
+    The for in loop iterate over a person object and it can also iterate over the properties of an array. Do not use for in over an array, 
+ if index order is important.
+
+    The for of loop iterate over data structures such as arrays, strings, maps, nodelists and more.
+
+    The forEach loop iterate over the method calls a function for each element in an array and it is not executed for empty elements.
+
+ 
